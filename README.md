@@ -1,0 +1,1 @@
+Example of dynamic routes with AngularJS
