@@ -1,0 +1,19 @@
+{
+    "name": "vendor_name/package_name",
+    "description": "description_text",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "author's name",
+            "email": "email@example.com"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "v2.2.0",
+        "silex/silex": "1.0.*@dev",
+        "doctrine/dbal": "2.3.4",
+        "symfony/yaml": "v2.2.0",
+        "symfony/config": "v2.2.0",
+        "twig/twig": "v1.13.0"
+    }
+}
